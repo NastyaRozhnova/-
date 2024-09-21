@@ -33,7 +33,9 @@ bash script.bash
 
 6. Скрипт работает!
 
- ![Screenshot From 2024-09-21 21-22-50](https://github.com/user-attachments/assets/4cc5fc09-0ea6-4dcf-ba51-5d83e433e1f5)
+ ![Screenshot From 2024-09-21 21-27-22](https://github.com/user-attachments/assets/589bd042-182c-4cee-b3df-ce3390fe9631)
+
+  ![Screenshot From 2024-09-21 21-35-33](https://github.com/user-attachments/assets/73f4e526-89d7-413b-82a9-e84de445fa75)
 
 Теперь приступлю к задаче.
 
@@ -73,6 +75,8 @@ bash script.bash benedict timothy carlton cumberbatch
    
 
    ![Screenshot From 2024-09-21 21-22-50](https://github.com/user-attachments/assets/8e689824-483d-4fd3-8a2a-49aa8de1f433)
+   
+   ![Screenshot From 2024-09-21 21-36-35](https://github.com/user-attachments/assets/c9731e8a-8550-424b-a651-f0f6eb0a3b57)
 
 
 ### Вывод
