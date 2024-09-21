@@ -59,16 +59,20 @@ gedit script.bash
 #!/bin/bash
 ```
 
-4. Вписывыю главную часть скрипта
+4. Вписываю главную часть скрипта
 
 ```bash
-"Welcome, "$*"
+"Welcome, $*"
 ```
   Здесь `$` отвечает за ввод переменных, а `*` в сочетании с `$` позволяет выдать все переданные переменные в виде строки
   
-5. Запускаю скрипт в терминале как в примере
+5. Запускаю скрипт в терминале как в примерах
 ```bash
-bash script.bash benedict timothy carlton cumberbatch
+bash script.bash Vasya Pupkin
+```
+
+```bash
+bash script.bash Benedict Timothy Carlton Cumberbatch
 ```
 
 6. Скрипт работает!
