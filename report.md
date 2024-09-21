@@ -23,7 +23,7 @@ gedit script.bash
 4. Вписывыю главную часть скрипта
 
 ```bash
-welcome to ITMO University
+"Welcome to ITMO University"
 ```
   
 5. Запускаю скрипт в терминале
@@ -62,7 +62,7 @@ gedit script.bash
 4. Вписывыю главную часть скрипта
 
 ```bash
-welcome, "$*"
+"Welcome, "$*"
 ```
   Здесь `$` отвечает за ввод переменных, а `*` в сочетании с `$` позволяет выдать все переданные переменные в виде строки
   
@@ -72,7 +72,8 @@ bash script.bash benedict timothy carlton cumberbatch
 ```
 
 6. Скрипт работает!
-   
+
+   ![Screenshot From 2024-09-21 21-40-50](https://github.com/user-attachments/assets/db70dc19-a9d5-463d-bb1d-70a92441dd07)
 
    ![Screenshot From 2024-09-21 21-22-50](https://github.com/user-attachments/assets/8e689824-483d-4fd3-8a2a-49aa8de1f433)
    
