@@ -26,9 +26,9 @@ gedit script.bash
 welcome to ITMO University
 ```
   
-5. Запускаю скрипт в терминале как в примере
+5. Запускаю скрипт в терминале
 ```bash
-bash script.bash benedict timothy carlton cumberbatch
+bash script.bash
 ```
 
 6. Скрипт работает!
